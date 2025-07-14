@@ -36,7 +36,7 @@ The dataset utilized in this project pertains to AtliQ Hardwares, encompassing d
 
 ### Repository Contents
 
-1. **SQL Queries:**  [Click to Download PDF](SQL_QUERIES (1).pdf)
+1. **SQL Queries:**  [Click to Download PDF](SQL_QUERIES(1).pdf)
 2. **PPT:**  [Click to Download PPTX](SQL-PROJECT.pptx)
 
 ### Project
