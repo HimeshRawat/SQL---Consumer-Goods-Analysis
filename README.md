@@ -36,7 +36,7 @@ The dataset utilized in this project pertains to AtliQ Hardwares, encompassing d
 
 ### Repository Contents
 
-1. **SQL Queries:** Contains the SQL queries used to extract and analyze data from the AtliQ Hardwares dataset. [SQL_QUERIES.pdf]
-2. **PPT:**  [SQL PROJECT.pptx]
+1. **SQL Queries:**  [Click to Download PDF](SQL_QUERIES (1).pdf)
+2. **PPT:**  [Click to Download PPTX](SQL-PROJECT.pptx)
 
 ### Project
